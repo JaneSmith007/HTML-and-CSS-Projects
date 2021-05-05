@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang=“en”>
 	<head>
-		<title>Basic HTML</title>
+		<title>Java</title>
 		<meta charset=“utf-8”>
 	</head>
 	<body>
@@ -11,7 +11,9 @@
 			<a href="dog_video.html">Cute Dog Video</a>
 		</nav>
         <p>
-            <script src="Basic_JavaScript_1.html"></script>
+            <script>
+                alert("Hello World!");
+            </script>
         </p>
 		<main>
     
@@ -19,3 +21,4 @@
 	</body>
 	<footer>Visit your local coffee house for a good cup of joe.</footer>
 </html>
+       
