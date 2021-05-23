@@ -48,7 +48,7 @@ body {
     display: block;
     opacity: 1;
         /* While not being hovered, drop down menu hides 
-    This also avoids a block-level bug */
+    This also avoids a block-level bugs */
     visibility: visible;
 }
 
