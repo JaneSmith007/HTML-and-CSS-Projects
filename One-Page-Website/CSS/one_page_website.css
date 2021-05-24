@@ -1,0 +1,18 @@
+/*=============================================
+Author: Laura Smith
+flowersofspring
+==============================================
+GENERIC SYLES
+=============================================*/
+
+html {
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+.submit input[type="submit"] {
+    border: none;
+    margin: 0px 5%;
+    width: 50%;
+    border-radius: 7px;
+}
