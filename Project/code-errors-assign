@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title>This Is the Title</title>
+    <style>
+        body {
+            font-color: dark-blue;
+            background-color: light-blue;
+        }
+        h3 { text-align: center;}
+        img {border: 2px red;}
+    </style>
+    </head>
+<body>
+    <h1>This Is the Heading 1</h1>
+    <h2>This Is the Hading 2 Element</h2>
+    <p>
+        <strong>
+        I am a bold student of the Tech Academy.
+        </strong>
+    </p>
+
+    <p>
+        <a href="www.learncodinganywhere.com/">This Is The Tech Achademy's Website.</a>
+    </p>
+
+    <img src="https://www.learncodinganywhere.com/Images/tech_logo/The%20Tech%20Academy%20Logo.png"
+    alt="The Tech Academy Logo" width="600px" height="300px">
+
+    <h3>Have you seen the Tech Academy's Orientation video?</h3>
+
+    <iframe 
+    width="560"
+    height="315"
+    frameborder="0"
+    src="https://ttamedmediaservices-uswe.streaming.media.azure.net/04ce32f6-b9fa-4e02-8c47-
+    3e5632d92a41/html_Intro_final.mp4" 
+    allowfullscreen
+    </iframe>
+
+</body>
+</html>
+
+
+
+
+
+
